@@ -1,0 +1,18 @@
+{
+  "name": "spiderjs",
+  "version": "1.0.0",
+  "description": "base on Caspserjs and slimerjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spiderjs",
+    "app"
+  ],
+  "author": "weblinuxgame",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
